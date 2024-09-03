@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gambhirr/OneDrive%20-%20Evros.ie/Documents/GitHub/MLOPS_Azure/MLOPS_Azure/src/model/mlruns/0/62df605a4ba0409dbf6651ca8ad88ffc/artifacts
+end_time: 1725365151338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62df605a4ba0409dbf6651ca8ad88ffc
+run_name: selective-cat-772
+run_uuid: 62df605a4ba0409dbf6651ca8ad88ffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725365137936
+status: 3
+tags: []
+user_id: GambhirR

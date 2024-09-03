@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gambhirr/OneDrive%20-%20Evros.ie/Documents/GitHub/MLOPS_Azure/MLOPS_Azure/src/model/mlruns/0/e11f08275ba34938acfdf269e6d1794b/artifacts
+end_time: 1725365054418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e11f08275ba34938acfdf269e6d1794b
+run_name: tasteful-steed-459
+run_uuid: e11f08275ba34938acfdf269e6d1794b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725365039587
+status: 3
+tags: []
+user_id: GambhirR

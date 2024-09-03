@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/gambhirr/OneDrive%20-%20Evros.ie/Documents/GitHub/MLOPS_Azure/MLOPS_Azure/src/model/mlruns/0/d1ad7785ebb8487d9c7f3d443f3d1684/artifacts
+end_time: 1725365277933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1ad7785ebb8487d9c7f3d443f3d1684
+run_name: intelligent-toad-490
+run_uuid: d1ad7785ebb8487d9c7f3d443f3d1684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725365260747
+status: 3
+tags: []
+user_id: GambhirR
